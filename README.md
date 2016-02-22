@@ -1,3 +1,3 @@
 docker-zookeeper
 ---
-Apache ZooKeeper on Docker
+Apache ZooKeeper 3.4.8 on Docker
